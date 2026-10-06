@@ -213,5 +213,21 @@ const archiveWorks = [
       "open-source",
       "reading by rebuilding"
     ]
+  },
+  {
+    "id": "51060847",
+    "title": "Cedric Price. Fun Palace for Joan Littlewood Project, Stratford East, London, England (Perspective). 1959–1961 | MoMA",
+    "description": "Cedric Price. Fun Palace for Joan Littlewood Project, Stratford East, London, England (Perspective). 1959–1961. Felt-tipped pen, ink, graphite, crayon and ink stamp on tracing paper with tape. 6 1/2 x 15 7/8″ (16.5 x 40.3 cm). Gift of The Howard Gilman Foundation. 1231.2000. Architecture and Design",
+    "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA2MDg0Ny9vcmlnaW5hbF9mZmIzNjllMGJmNGUyZGI5NDI0NWY1OTZhZGNmOTQ2My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
+    "url": "https://www.are.na/block/51060847",
+    "terms": [
+      "architecture",
+      "ink",
+      "tape"
+    ],
+    "group": "reading by making",
+    "groups": [
+      "reading by making"
+    ]
   }
 ];

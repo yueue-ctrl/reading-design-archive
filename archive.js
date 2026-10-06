@@ -10,6 +10,7 @@ const positions = {
   typography: [24, 17], grid: [48, 17], layout: [73, 17],
   shapes: [35, 24], symbols: [63, 24],
   teaching: [25, 40], making: [50, 40], experimentation: [75, 40],
+  architecture: [25, 47], ink: [50, 47], tape: [75, 47],
   code: [24, 63], web: [49, 63], play: [75, 63], music: [38, 70],
   'open source': [24, 88], tools: [49, 88], publishing: [75, 88]
 };
@@ -100,7 +101,7 @@ Object.entries(positions).forEach(([term, [x, y]]) => {
   const node = document.createElement('button');
   node.className = 'word';
   if (!archiveWorks.some(work => work.groups.includes(term))) node.classList.add('keyword');
-  node.textContent = term;
+  node.textContent = archiveWorks.some(work => work.groups.includes(term)) ? `[${term}]` : term;
   node.style.left = `${x}%`;
   node.style.top = `${y}%`;
   node.addEventListener('pointerenter', () => openWord(term));
