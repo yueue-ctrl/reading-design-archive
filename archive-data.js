@@ -6,9 +6,9 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA2NDQxNC9vcmlnaW5hbF80ZjMxZDEwOWE4ZGU1MzIxMjEyYTljOWJkODJkMDFhYy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/51064414",
     "terms": [
-      "typography",
-      "experimentation",
-      "teaching"
+      "type",
+      "experiment",
+      "learning"
     ],
     "group": "reading form",
     "groups": [
@@ -36,8 +36,7 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDIxNjIzMy9vcmlnaW5hbF8zZDQyZjYyOWVhNDIxNDQxYWI1ZGZlMDY5NjBkMzBiZi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/50216233",
     "terms": [
-      "shapes",
-      "symbols"
+      "form"
     ],
     "group": "reading form",
     "groups": [
@@ -65,7 +64,7 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDIxNTM5OS9vcmlnaW5hbF80MzVlZWQxYzE5YTQxMmI4ZWU4ZmFlOWYwMTU4YzZkMi5qcGVnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0",
     "url": "https://www.are.na/block/50215399",
     "terms": [
-      "typography"
+      "type"
     ],
     "group": "reading form",
     "groups": [
@@ -93,7 +92,7 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA1ODEyMS9vcmlnaW5hbF82YjIzMTRiMWJmNjQ3MmIzMjAyNjEwMDUtMi04d2Zob2IucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDAsImhlaWdodCI6NDAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9LCJ3ZWJwIjp7InF1YWxpdHkiOjc1fSwianBlZyI6eyJxdWFsaXR5Ijo3NX0sInJvdGF0ZSI6bnVsbH19?bc=0",
     "url": "https://www.are.na/block/51058121",
     "terms": [
-      "teaching"
+      "learning"
     ],
     "group": "reading by making",
     "groups": [
@@ -107,9 +106,9 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTAwOTU4OC9vcmlnaW5hbF8xYzM4M2Y4ZWY4MzY0MTg4NjdmMzZkMzRiY2Q2MDJlZC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/51009588",
     "terms": [
-      "open source",
+      "access",
       "code",
-      "music"
+      "play"
     ],
     "group": "reading by rebuilding",
     "groups": [
@@ -126,7 +125,7 @@ const archiveWorks = [
     "terms": [
       "grid",
       "layout",
-      "experimentation",
+      "experiment",
       "code"
     ],
     "group": "reading by rebuilding",
@@ -171,7 +170,7 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA1OTk1OC9vcmlnaW5hbF80ZmEyMTRkYTUyMDlmYTkxNjNiM2UzZmZjYzZhZDc3OC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/51059958",
     "terms": [
-      "open source",
+      "access",
       "publishing",
       "tools",
       "web"
@@ -188,7 +187,7 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA1OTA3Ni9vcmlnaW5hbF8xNDY2NjY1NmQ1NmM4ZjA1M2FjZDM5MmE2YWFkOTBmMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/51059076",
     "terms": [
-      "typography",
+      "type",
       "making"
     ],
     "group": "reading by making",
@@ -203,9 +202,9 @@ const archiveWorks = [
     "image": null,
     "url": "https://openprocessing.org/",
     "terms": [
-      "open source",
+      "access",
       "code",
-      "experimentation",
+      "experiment",
       "tools"
     ],
     "group": "open-source",
@@ -221,13 +220,172 @@ const archiveWorks = [
     "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MTA2MDg0Ny9vcmlnaW5hbF9mZmIzNjllMGJmNGUyZGI5NDI0NWY1OTZhZGNmOTQ2My5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
     "url": "https://www.are.na/block/51060847",
     "terms": [
-      "architecture",
-      "ink",
-      "tape"
+      "structure",
+      "material"
     ],
     "group": "reading by making",
     "groups": [
       "reading by making"
     ]
+  },
+  {
+    "id": "50215524",
+    "title": "text is written on the leaves",
+    "description": "",
+    "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDIxNTUyNC9vcmlnaW5hbF8xOGFjNWE1YTU5N2NhMmE3OGE4MWY5NDRjYjJiYWE1NC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
+    "url": "https://www.are.na/block/50215524",
+    "terms": [
+      "type"
+    ],
+    "group": "reading form",
+    "groups": [
+      "reading form"
+    ]
+  },
+  {
+    "id": "50215496",
+    "title": "actions",
+    "description": "",
+    "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDIxNTQ5Ni9vcmlnaW5hbF85ZjAwNWZhYTY5Zjc5YTczNWMyMTE3NDE2YTBhMGJhZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
+    "url": "https://www.are.na/block/50215496",
+    "terms": [
+      "action"
+    ],
+    "group": "reading form",
+    "groups": [
+      "reading form"
+    ]
+  },
+  {
+    "id": "50213025",
+    "title": "This Is For You",
+    "description": "A handbook for design students.",
+    "image": "https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiI1MDIxMzAyNS9vcmlnaW5hbF8zOThhMjJkMzEzNDAyYTAzNGVmYmFhNTE3N2YwN2M2OS5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMCwiaGVpZ2h0Ijo0MDAsImZpdCI6Imluc2lkZSIsIndpdGhvdXRFbmxhcmdlbWVudCI6dHJ1ZX0sIndlYnAiOnsicXVhbGl0eSI6NzV9LCJqcGVnIjp7InF1YWxpdHkiOjc1fSwicm90YXRlIjpudWxsfX0=?bc=0",
+    "url": "https://www.are.na/block/50213025",
+    "terms": [
+      "learning"
+    ],
+    "group": "reading by rebuilding",
+    "groups": [
+      "reading by rebuilding",
+      "open-source"
+    ]
+  },
+  {
+    "id": "html-day-2026",
+    "title": "HTML Day 2026",
+    "description": "An annual gathering to write and celebrate HTML around the world.",
+    "image": "https://2026.html.energy/images/social-2026.jpg?v=20260729a",
+    "url": "https://2026.html.energy/",
+    "terms": [
+      "making",
+      "web",
+      "code"
+    ],
+    "group": "reading by making",
+    "groups": [
+      "reading by making"
+    ]
+  },
+  {
+    "id": "creative-independent-ten-years",
+    "title": "Ten Years of The Creative Independent",
+    "description": "The Creative Independent is now ten years old. That’s a little over a quarter of the Web’s entire history. It’s wild to think how much and how little everything has changed. Many artists are dealing with the same questions: how to stay afloat in precarious times, how to juggle a creative practice and a day job, how to start something new, how to work through creative blocks...",
+    "image": "https://thecreativeindependent.com/ten-years/images/social.png",
+    "url": "https://thecreativeindependent.com/ten-years/",
+    "terms": [
+      "web",
+      "practice"
+    ],
+    "group": "open-source",
+    "groups": [
+      "open-source"
+    ]
+  },
+  {
+    "id": "mit-pcd-2026",
+    "title": "Processing Community Day · Boston / Cambridge 2026",
+    "description": "Processing is turning 25. Talks, workshops, artwork, and the Open Projector at the MIT Media Lab, Sunday, November 1, 2026.",
+    "image": "https://pcd26.media.mit.edu/opengraph-image.png",
+    "url": "https://pcd26.media.mit.edu/",
+    "terms": [
+      "code",
+      "practice"
+    ],
+    "group": "open-source",
+    "groups": [
+      "open-source"
+    ]
+  },
+  {
+    "id": "own-climbing-fail",
+    "title": "Climbing Fail",
+    "description": "A place for everyone to upload funny climbing videos.",
+    "url": "https://climbing-fail.vercel.app/",
+    "terms": [
+      "play",
+      "web"
+    ],
+    "groups": [
+      "reading by making"
+    ],
+    "group": "reading by making",
+    "own": true,
+    "image": "assets/own-climbing-fail.svg"
+  },
+  {
+    "id": "own-font-lab",
+    "title": "Zebba Variable Font Lab",
+    "description": "My open-source variable font website: three-axis testing and CSS export.",
+    "url": "https://climbing-fail.vercel.app/font-lab",
+    "terms": [
+      "type",
+      "code",
+      "tools",
+      "access"
+    ],
+    "groups": [
+      "reading by making",
+      "reading form",
+      "open-source"
+    ],
+    "group": "reading by making",
+    "own": true,
+    "image": "assets/own-font-lab.svg"
+  },
+  {
+    "id": "own-graduation-grid",
+    "title": "毕业橱窗 / Graduation Archive",
+    "description": "My graduation archive website.",
+    "url": "https://day-to-day.cn/graduationgrid/#/",
+    "terms": [
+      "archive",
+      "grid",
+      "layout",
+      "web"
+    ],
+    "groups": [
+      "reading by making",
+      "reading form"
+    ],
+    "group": "reading by making",
+    "own": true,
+    "image": "assets/own-graduation-grid.svg"
+  },
+  {
+    "id": "own-zebbagreen",
+    "title": "ZebbaGreen",
+    "description": "My experimental zebrafish website.",
+    "url": "https://day-to-day.cn/zebbagreen/",
+    "terms": [
+      "experiment",
+      "web"
+    ],
+    "groups": [
+      "reading by making"
+    ],
+    "group": "reading by making",
+    "own": true,
+    "image": "assets/own-zebbagreen.svg"
   }
 ];
